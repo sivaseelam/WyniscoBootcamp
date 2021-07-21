@@ -39,7 +39,7 @@ function Homeworks() {
        
       </tr>
       <tr>
-          <th scope="row">3/th>
+          <th scope="row">3</th>
           <td>Homework 3</td>
           <td>Wynisco HTML Website</td>
           <td><a href="https://codepen.io/sivaseelam/pen/vYmJmdV"> Link</a> </td>
